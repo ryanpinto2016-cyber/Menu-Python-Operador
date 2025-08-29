@@ -1,0 +1,2 @@
+101;Morango;10
+102;Macarrão;20
